@@ -29,7 +29,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Cypress_SauceDemo]([https://github.com/seu-usuario/Cypress_SauceDemo](https://github.com/BrunaOliveira24/saucedemo-cypress-automation)) | Automação completa do site saucedemo.com com login, carrinho e checkout | Cypress, JS |
+| [Cypress_SauceDemo](https://github.com/BrunaOliveira24/saucedemo-cypress-automation) | Automação em andamento do site saucedemo.com com login, carrinho e checkout | Cypress, JS |
 
 ---
 ## 📊 Linguagens mais utilizadas
