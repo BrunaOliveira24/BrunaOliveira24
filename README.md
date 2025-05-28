@@ -32,6 +32,9 @@
 | [Cypress_SauceDemo]([https://github.com/seu-usuario/Cypress_SauceDemo](https://github.com/BrunaOliveira24/saucedemo-cypress-automation)) | Automação completa do site saucedemo.com com login, carrinho e checkout | Cypress, JS |
 
 ---
+## 📊 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaOliveira24&layout=compact&langs_count=6&theme=radical)
 
 ## 📫 Como me encontrar
 
